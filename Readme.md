@@ -10,7 +10,7 @@ Kebutuhan Sistem :
 - Django 
 
 Cara Instalasi
-~~~~~~~~~~~~~~
+
 
 *Clone* gunakan :
 
