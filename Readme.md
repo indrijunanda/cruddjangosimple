@@ -1,13 +1,12 @@
 # CRUD Simpel menggunakan Django Framework (Indonesia)
 
-## utorial
----------
+## Tutorial
 
 Kebutuhan Sistem :
 
-
 - Python 3.7.1
 - Django 
+- Mysql
 
 ### Cara Instalasi
 
