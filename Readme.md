@@ -20,7 +20,7 @@ https://github.com/indrijunanda/cruddjangosimple.git
 ### Buatlah Nama Database 
 
 ```
-fcm
+simplecrud
 ```
 
 ### Jalankan Aplikasi 
