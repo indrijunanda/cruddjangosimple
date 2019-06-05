@@ -1,6 +1,6 @@
-## CRUD Simpel menggunakan Django Framework (Indonesia)
+# CRUD Simpel menggunakan Django Framework (Indonesia)
 
-Tutorial
+## utorial
 ---------
 
 Kebutuhan Sistem :
@@ -9,7 +9,7 @@ Kebutuhan Sistem :
 - Python 3.7.1
 - Django 
 
-Cara Instalasi
+### Cara Instalasi
 
 
 *Clone* gunakan :
