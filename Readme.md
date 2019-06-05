@@ -16,3 +16,6 @@ Kebutuhan Sistem :
 ```
 https://github.com/indrijunanda/cruddjangosimple.git
 ```
+
+### Dokumentasi Django
+- Cek disini https://docs.djangoproject.com/en/dev/internals/contributing/
