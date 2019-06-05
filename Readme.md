@@ -4,7 +4,7 @@ Tutorial
 ---------
 
 Kebutuhan Sistem :
-~~~~~~~~~~~~~~~~~
+
 
 - Python 3.7.1
 - Django 
