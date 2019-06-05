@@ -17,5 +17,26 @@ Kebutuhan Sistem :
 https://github.com/indrijunanda/cruddjangosimple.git
 ```
 
-### Dokumentasi Django
+### Buatlah Nama Database 
+
+```
+fcm
+```
+
+### Jalankan Aplikasi 
+
+Sebelum menjalankan aplikasi kamu harus `migrasi` terlebih dahulu :
+
+```
+py manage.py migrate
+```
+
+dan jalankan web server dengan : 
+```
+py manage.py runserver
+```
+
+untuk akses kedalam aplikasi silahkan kunjungi http://localhost:8000/ 
+
+### Dokumentasi Django Lebih lengkap
 - Cek disini https://docs.djangoproject.com/en/dev/internals/contributing/
