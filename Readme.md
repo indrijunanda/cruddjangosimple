@@ -15,3 +15,5 @@ Cara Instalasi
 *Clone* gunakan :
 
 ```
+https://github.com/indrijunanda/cruddjangosimple.git
+```
