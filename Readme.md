@@ -40,3 +40,14 @@ untuk akses kedalam aplikasi silahkan kunjungi http://localhost:8000/
 
 ### Dokumentasi Django Lebih lengkap
 - Cek disini https://docs.djangoproject.com/en/dev/internals/contributing/
+
+
+-------------------
+
+### Cheers Up!
+
+*Happy Developing and Learning* 💪
+
+
+
+developed by `indrijunanda`
