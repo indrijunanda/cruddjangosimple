@@ -14,8 +14,10 @@ Kebutuhan Sistem :
 *Clone* gunakan :
 
 ```
-https://github.com/indrijunanda/cruddjangosimple.git
+git clone https://github.com/indrijunanda/cruddjangosimple.git
 ```
+
+atau kamu bisa langsung download berbentuk format **.zip**
 
 ### Buatlah Nama Database 
 
@@ -50,4 +52,4 @@ untuk akses kedalam aplikasi silahkan kunjungi http://localhost:8000/
 
 
 
-developed by `indrijunanda`
+developed by **[`indrijunanda`](https://indrijunanda.gitlab.io/)**
