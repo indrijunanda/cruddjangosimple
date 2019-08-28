@@ -1,4 +1,4 @@
-# CRUD Simpel menggunakan Django Framework (Indonesia)
+# CRUD Simpel menggunakan Django Framework (Bahasa Indonesia)
 
 ## Tutorial
 
@@ -44,12 +44,13 @@ untuk akses kedalam aplikasi silahkan kunjungi http://localhost:8000/
 - Cek disini https://docs.djangoproject.com/en/dev/internals/contributing/
 
 
--------------------
 
+
+-------------------
 ### Cheers Up!
 
 *Happy Developing and Learning* 💪
 
 
 
-developed by **[`indrijunanda`](https://indrijunanda.gitlab.io/)**
+Regards 😁😁
